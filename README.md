@@ -5,15 +5,15 @@
 Authors: Junjie Chen, Yichen Ding, Michael Chen, Jonathan Gau, Nelson Jen, Chadi Nahal, Sally Tu, Cynthia Chen, Steve Zhou, Chih-Chiang Chang, Jintian Lyu, Xiaolei Xu, Tzung K. Hsiai, René R. Sevag Packard
 
 ----------------------
-MATLAB PACKAGE
+MATLAB PACKAGE: 
 This folder contains MATLAB codes and example data for the DIAMOND. To analyze other light-sheet imaging data, please install Amira 6.1 (FEI; Berlin, Germany) and ImageJ / Fiji (NIH, Bethesda, MD) for data preparation. 
-DIAMOND is an open-source, modular set of functions for MATLAB and designed for processing data acquired by light-sheet fluorescence microscope. Please see the full manuscript published online in JCI Insight at the following link:  . 
+DIAMOND is an open-source, modular set of functions for MATLAB and designed for processing data acquired by light-sheet fluorescence microscope. Please see the full manuscript published online in JCI Insight at the following link. 
 ----------------------
-COMPATIBILITY NOTES
+COMPATIBILITY NOTES:
 The functions were mainly developed with 64bit MATLAB versions 2015a in Windows 10.
 Note: MATLAB Image Processing Toolbox is required in the analysis. 
 ----------------------
-INSTRUCTIONS (For more information, please see the full manuscript published online in JCI Insight)
+INSTRUCTIONS (For more information, please see the full manuscript published online in JCI Insight):
 1.	Find the diastole and systole phase of a cardiac cycle and save them as 3D tif files with name ‘diastole.tif’ and ‘systole.tif’ in ImageJ / Fiji.
 
 2.	Manually segment out the ventricle and save the label files as 3D tif files with name ‘diastole.Labels.tif’ and ‘systole.Labels.tif’ in Amira 6.1.
