@@ -1,13 +1,13 @@
 # 4-D-DIAMOND-Project
 
-4-D Displacement Analysis of Myocardial Mechanical Deformation (DIAMOND) Reveals Segmental Susceptibility to Doxorubicin-Induced Injury and Regeneration in Zebrafish
+Displacement analysis of myocardial mechanical deformation reveals segmental susceptibility to doxorubicin-induced injury and regeneration
 
 Authors: Junjie Chen, Yichen Ding, Michael Chen, Jonathan Gau, Nelson Jen, Chadi Nahal, Sally Tu, Cynthia Chen, Steve Zhou, Chih-Chiang Chang, Jintian Lyu, Xiaolei Xu, Tzung K. Hsiai, René R. Sevag Packard
 
 
 -MATLAB PACKAGE: 
 This folder contains MATLAB codes and example data for the DIAMOND. To analyze other light-sheet imaging data, please install Amira 6.1 (FEI; Berlin, Germany) and ImageJ / Fiji (NIH, Bethesda, MD) for data preparation. 
-DIAMOND is an open-source, modular set of functions for MATLAB and designed for processing data acquired by light-sheet fluorescence microscope. Please see the full manuscript published online in JCI Insight at the following link. 
+DIAMOND is an open-source, modular set of functions for MATLAB and designed for processing data acquired by light-sheet fluorescence microscope. Please see the full manuscript published online in JCI Insight at the following link: https://doi.org/10.1172/jci.insight.125362. 
 
 
 -COMPATIBILITY NOTES:
