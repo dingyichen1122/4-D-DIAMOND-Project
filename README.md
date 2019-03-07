@@ -1,6 +1,6 @@
 # 4-D-DIAMOND-Project
 
-Displacement analysis of myocardial mechanical deformation reveals segmental susceptibility to doxorubicin-induced injury and regeneration
+Displacement analysis of myocardial mechanical deformation (DIAMOND) reveals segmental susceptibility to doxorubicin-induced injury and regeneration
 
 Authors: Junjie Chen, Yichen Ding, Michael Chen, Jonathan Gau, Nelson Jen, Chadi Nahal, Sally Tu, Cynthia Chen, Steve Zhou, Chih-Chiang Chang, Jintian Lyu, Xiaolei Xu, Tzung K. Hsiai, René R. Sevag Packard
 
